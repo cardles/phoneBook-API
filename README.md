@@ -1,6 +1,6 @@
 # phoneBook
 API apresentada ao curso online de back-end da {reprograma}.  
-Tema da semana: "Métodos HTTP: PUT + PATCH".
+Tema da semana: *"Métodos HTTP: POST + DELETE"*.
 <br>
 <br>
 
