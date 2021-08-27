@@ -33,10 +33,10 @@ adicionar novo contato
 dados esperados: 
 `
 {  
-    id: autogerado,  
-    nome: String,  
-    celular: String,  
-    redesSociais: String  
+    id: autogerado,
+    nome: String,
+    celular: String,
+    redesSociais: String
 }
 `
 
