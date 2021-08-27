@@ -31,14 +31,14 @@ buscar contato por id
 {POST}/contact/add  
 adicionar novo contato  
 dados esperados: 
-```
+`
 {  
     id: autogerado,  
     nome: String,  
     celular: String,  
     redesSociais: String  
 }
-```
+`
 
 {DELETE}/contact/dell/:id  
 deletar contato por id
